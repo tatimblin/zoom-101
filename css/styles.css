@@ -1,0 +1,11 @@
+.App {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+img {
+  display: block;
+  max-width: 75%;
+  margin: 0 auto;
+}
